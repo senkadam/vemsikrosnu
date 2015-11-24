@@ -331,6 +331,12 @@ you can use the generic selector below, but it's slower:
 .icon-shield:before {
 	content: "\e061";
 }
+
+.icon-vemsicrosnu:before {
+	content:  url(../img/ico.png);
+        width: 30%;
+        height: 30%;
+}
 .icon-lightning:before {
 	content: "\e062";
 }
